@@ -9,17 +9,30 @@ TL;dr
 - Don't cheat.
 - Keep being awesome.
 
-## troubleshoot.sh
+## [Troubleshoot.sh](https://troubleshoot.sh)
+Preflight checks and Support bundle framework for Kubernetes applications.
 
--
+### Open Issues
 
-## SchemaHero
+- [#482 - storageclass Analyzer should be able to pass/warn/fail on more than name](https://github.com/replicatedhq/troubleshoot/issues/482)
+- [#407 - The output path for Preflight & support-bundle should be configurable](https://github.com/replicatedhq/troubleshoot/issues/407)
+- [#481 - Allow scoping by namespace at runtime](https://github.com/replicatedhq/troubleshoot/issues/481)
+- [#306 - No support for Apple M1](https://github.com/replicatedhq/troubleshoot/issues/365)
 
-## kURL
+## [SchemaHero](https://schemahero.io)
 
-## Outdated
+A Kubernetes operator for declarative database schema management (gitops for database schemas)
 
-## ttl.sh
+### Open Issues
+
+- [Install --yaml is invalid](https://github.com/schemahero/schemahero/issues/667)
+- [Incorrect migration in mysql running](https://github.com/schemahero/schemahero/issues/654)
+- [mysql: charset with no collation on a column produces no-op migration](https://github.com/schemahero/schemahero/issues/625)
+
+## [kURL](https://kurl.sh)
+
+## [Outdated](https://outdated.sh)
+
 
 ## Need help?
 
