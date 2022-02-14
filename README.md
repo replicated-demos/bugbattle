@@ -37,3 +37,8 @@ A Kubernetes operator for declarative database schema management (gitops for dat
 ## Need help?
 
 If you need someone to do a pre-review, need advice or guidance, contact the OSS team via [email](mailto:oss@replicated.com).
+
+## Mentors list
+
+This is a list of available mentors to assist with onboarding & support new & current contributors. If you would like to be added to the list, submit a [pull request](https://github.com/replicated-demos/bugbattle/pulls) with your name & specialty.
+
